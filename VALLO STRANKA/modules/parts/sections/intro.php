@@ -8,4 +8,4 @@
             <p class='text-gradient-color'> <?php echo (SITE_NAME2); ?> </p>
         </div>
         <div class='column text-align-left'>
-            <img src='./assets/imgs/logo.png' alt='Intro Image' class='intro-image'>
+            <img src='./assets/imgs/kok.jpg' alt='Intro Image' class='intro-image'>
