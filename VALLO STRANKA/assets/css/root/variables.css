@@ -1,0 +1,16 @@
+:root {
+    --color1: #e43578;
+    --color2: #fc64b7;
+    --color3: #ff9ccf;
+    --color4: #ffe1eb;
+    --color5: #ffffff;
+
+    --font-label: 'Kanit', sans-serif;
+    --font-text: 'kanit', sans-serif;
+
+    --size-extra-small: 5px;
+    --size-small: 15px;
+    --size-medium: 25px;
+    --size-large: 35px;
+    --size-extra-large: 50px;
+}
